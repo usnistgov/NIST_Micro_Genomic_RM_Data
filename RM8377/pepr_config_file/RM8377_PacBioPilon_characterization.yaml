@@ -1,0 +1,165 @@
+## peprs parameters for RM8375
+## pipeline hard coded for SRA sourced fastq files ....
+## commented out datasets already run
+---
+project_id: MG003
+center: NIST
+RM: RM8377
+ref: RM8377_pilon.fasta
+sample_factors: accession, plat, vial, rep
+exp_design:
+  miseq:
+    - accession: SRR2134856
+      plat: miseq
+      vial: 0
+      rep: 1
+    - accession: SRR2134857
+      plat: miseq
+      vial: 0
+      rep: 2
+    - accession: SRR2134862
+      plat: miseq
+      vial: 1
+      rep: 1
+    - accession: SRR2134863
+      plat: miseq
+      vial: 1
+      rep: 2
+    - accession: SRR2134864
+      plat: miseq
+      vial: 2
+      rep: 1
+    - accession: SRR2134865
+      plat: miseq
+      vial: 2
+      rep: 2
+    - accession: SRR2134866
+      plat: miseq
+      vial: 3
+      rep: 1
+    - accession: SRR2134867
+      plat: miseq
+      vial: 3
+      rep: 2
+    - accession: SRR2134868
+      plat: miseq
+      vial: 4
+      rep: 1
+    - accession: SRR2134869
+      plat: miseq
+      vial: 4
+      rep: 2
+    - accession: SRR2134858
+      plat: miseq
+      vial: 5
+      rep: 1
+    - accession: SRR2134859
+      plat: miseq
+      vial: 5
+      rep: 2
+    - accession: SRR2134860
+      plat: miseq
+      vial: 6
+      rep: 1
+    - accession: SRR2134861
+      plat: miseq
+      vial: 6
+      rep: 2
+    - accession: SRR2132887
+      plat: miseq
+      vial: 7
+      rep: 1
+    - accession: SRR2132888
+      plat: miseq
+      vial: 7
+      rep: 2
+  pgm:
+    - accession: SRR2056475
+      plat: pgm
+      vial: 0
+      rep: 1
+    - accession: SRR2056452
+      plat: pgm
+      vial: 0
+      rep: 2
+    - accession: SRR2056477
+      plat: pgm
+      vial: 1
+      rep: 1
+    - accession: SRR2056453
+      plat: pgm
+      vial: 1
+      rep: 2
+    - accession: SRR2056454
+      plat: pgm
+      vial: 2
+      rep: 1
+    - accession: SRR2056461
+      plat: pgm
+      vial: 2
+      rep: 2
+    - accession: SRR2056455
+      plat: pgm
+      vial: 3
+      rep: 1
+    - accession: SRR2056462
+      plat: pgm
+      vial: 3
+      rep: 2
+    - accession: SRR2056456
+      plat: pgm
+      vial: 4
+      rep: 1
+    - accession: SRR2056463
+      plat: pgm
+      vial: 4
+      rep: 2
+    - accession: SRR2056457
+      plat: pgm
+      vial: 5
+      rep: 1
+    - accession: SRR2056464
+      plat: pgm
+      vial: 5
+      rep: 2
+    - accession: SRR2056458
+      plat: pgm
+      vial: 6
+      rep: 1
+    - accession: SRR2056472
+      plat: pgm
+      vial: 6
+      rep: 2
+    - accession: SRR2056460
+      plat: pgm
+      vial: 7
+      rep: 1
+    - accession: SRR2056473
+      plat: pgm
+      vial: 7
+      rep: 2
+  pacbio:
+    - accession: SRR2057010
+      plat: pacbio
+      vial: 9
+      rep: 1
+    - accession: SRR2057012
+      plat: pacbio
+      vial: 9
+      rep: 2
+    - accession: SRR2056988
+      plat: pacbio
+      vial: 10
+      rep: 1
+    - accession: SRR2056989
+      plat: pacbio
+      vial: 10
+      rep: 2
+    - accession: SRR2056990
+      plat: pacbio
+      vial: 10
+      rep: 3
+    - accession: SRR2056991
+      plat: pacbio
+      vial: 5
+      rep: 4

@@ -1,0 +1,77 @@
+## peprs parameters for RM8375
+## pipeline hard coded for SRA sourced fastq files ....
+## commented out datasets already run
+---
+project_id: MG003
+center: NIST
+RM: RM8377
+ref: /micro_rm_patho_db/micro_rm_patho_db_ti.fa
+ref_dir: /micro_rm_patho_db/
+ref_root: micro_rm_patho_db
+sample_factors: accession, plat, vial, rep
+exp_design:
+   miseq:
+    - accession: SRR2134856
+      plat: miseq
+      vial: 0
+      rep: 1
+    - accession: SRR2134857
+      plat: miseq
+      vial: 0
+      rep: 2
+    - accession: SRR2134862
+      plat: miseq
+      vial: 1
+      rep: 1
+    - accession: SRR2134863
+      plat: miseq
+      vial: 1
+      rep: 2
+    - accession: SRR2134864
+      plat: miseq
+      vial: 2
+      rep: 1
+    - accession: SRR2134865
+      plat: miseq
+      vial: 2
+      rep: 2
+    - accession: SRR2134866
+      plat: miseq
+      vial: 3
+      rep: 1
+    - accession: SRR2134867
+      plat: miseq
+      vial: 3
+      rep: 2
+    - accession: SRR2134868
+      plat: miseq
+      vial: 4
+      rep: 1
+    - accession: SRR2134869
+      plat: miseq
+      vial: 4
+      rep: 2
+    - accession: SRR2134858
+      plat: miseq
+      vial: 5
+      rep: 1
+    - accession: SRR2134859
+      plat: miseq
+      vial: 5
+      rep: 2
+    - accession: SRR2134860
+      plat: miseq
+      vial: 6
+      rep: 1
+    - accession: SRR2134861
+      plat: miseq
+      vial: 6
+      rep: 2
+    - accession: SRR2134887
+      plat: miseq
+      vial: 7
+      rep: 1
+    - accession: SRR2134888
+      plat: miseq
+      vial: 7
+      rep: 2
