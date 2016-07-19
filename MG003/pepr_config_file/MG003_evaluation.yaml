@@ -1,10 +1,10 @@
-## peprs parameters for RM8375
+## pepr parameters for RM8375-MG003
 ## pipeline hard coded for SRA sourced fastq files ....
 ## commented out datasets already run
 ---
 project_id: MG003
 center: NIST
-RM: RM8377
+RM: RM8375-MG003
 ref: CFSAN030014.fasta
 sample_factors: accession, plat, vial, rep
 exp_design:

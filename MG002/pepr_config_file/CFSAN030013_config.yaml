@@ -1,119 +1,118 @@
-## peprs parameters for RM8375
+## pepr parameters for RM8376
 ---
-project_id: MG001
+project_id: MG002
 center: NIST
-RM: RM8375
-ref: RM8375_pilon.fasta
-sample_factors: accession, plat, vial, rep
+RM: RM8375-MG002
+ref: /pepr-data/CFSAN030013.fasta
 exp_design:
   miseq:
-    - accession: SRR1555296
+    - accession: SRR1979039
       plat: miseq
       vial: 0
       rep: 1
-    - accession: SRR1555297
+    - accession: SRR1979040
       plat: miseq
       vial: 0
       rep: 2
-    - accession: SRR1555298
+    - accession: SRR1979041
       plat: miseq
       vial: 1
       rep: 1
-    - accession: SRR1555299
+    - accession: SRR1979042
       plat: miseq
       vial: 1
       rep: 2
-    - accession: SRR1555300
+    - accession: SRR1979043
       plat: miseq
       vial: 2
       rep: 1
-    - accession: SRR1555301
+    - accession: SRR1979070
       plat: miseq
       vial: 2
       rep: 2
-    - accession: SRR1555302
+    - accession: SRR1979044
       plat: miseq
       vial: 3
       rep: 1
-    - accession: SRR1555303
+    - accession: SRR1979045
       plat: miseq
       vial: 3
       rep: 2
-    - accession: SRR1555304
+    - accession: SRR1979046
       plat: miseq
       vial: 4
       rep: 1
-    - accession: SRR1555305
+    - accession: SRR1979047
       plat: miseq
       vial: 4
       rep: 2
-    - accession: SRR1555306
+    - accession: SRR1979048
       plat: miseq
       vial: 5
       rep: 1
-    - accession: SRR1555307
+    - accession: SRR1979049
       plat: miseq
       vial: 5
       rep: 2
-    - accession: SRR1555308
+    - accession: SRR1979050
       plat: miseq
       vial: 6
       rep: 1
-    - accession: SRR1555309
+    - accession: SRR1979060
       plat: miseq
       vial: 6
       rep: 2
-    - accession: SRR1555310
+    - accession: SRR1979064
       plat: miseq
       vial: 7
       rep: 1
-    - accession: SRR1555311
+    - accession: SRR1979065
       plat: miseq
       vial: 7
       rep: 2
   pgm:
-    - accession: SRR1393710
+    - accession: SRR2002412
       plat: pgm
       vial: 0
       rep: 1
-    - accession: SRR1393711
+    - accession: SRR2002413
       plat: pgm
       vial: 1
       rep: 1
-    - accession: SRR1393713
+    - accession: SRR2002414
       plat: pgm
       vial: 2
       rep: 1
-    - accession: SRR1393714
+    - accession: SRR2002415
       plat: pgm
       vial: 3
       rep: 1
-    - accession: SRR1393716
+    - accession: SRR2002416
       plat: pgm
       vial: 4
       rep: 1
-    - accession: SRR1393718
+    - accession: SRR2002418
       plat: pgm
       vial: 5
       rep: 1
-    - accession: SRR1393719
+    - accession: SRR2002419
       plat: pgm
       vial: 6
       rep: 1
-    - accession: SRR1393721
+    - accession: SRR2002420
       plat: pgm
       vial: 7
       rep: 1
   pacbio:
-    - accession: SRR1425899
+    - accession: SRR2056302
       plat: pacbio
       vial: 9
       rep: 1
-    - accession: SRR1425900
+    - accession: SRR2056306
       plat: pacbio
       vial: 9
       rep: 2
-    - accession: SRR1425901 
+    - accession: SRR2056310
       plat: pacbio
       vial: 9
       rep: 3
