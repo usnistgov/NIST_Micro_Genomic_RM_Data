@@ -1,0 +1,1177 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RESTRICTION_MAPS_DOCUMENT version="0.2">
+  <DISPLAY_INFO SCALE="0.000325090" X="0" Y="0" RULER="false" RULERORIGIN="0" GRID="false" GRIDSNAP="false" />
+
+  <RESTRICTION_MAP ID="Clostridium sporogenes (PA3679)" ENZYME="NcoI" INSILICO="false">
+    <MAP_DISPLAY DBID="1" EDITABLE="false" STICK="false" X="10000" Y="100" TRANS="255" ORDER="10" ORIENTATION="1" CIRCULAR="true" GROUPID="-1" />
+      <FRAGMENTS SHIFT="0" OFFSET="1">
+        <F I="0" S="2107" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="1" S="5361" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="2" S="33089" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="3" S="6753" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="4" S="8002" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="5" S="6865" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="6" S="6617" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="7" S="19101" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="8" S="9105" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="9" S="23768" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="10" S="9125" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="11" S="27532" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="12" S="4714" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="13" S="5140" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="14" S="27242" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="15" S="5468" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="16" S="19106" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="17" S="6197" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="18" S="19789" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="19" S="11800" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="20" S="12429" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="21" S="22424" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="22" S="2813" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="23" S="43537" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="24" S="14847" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="25" S="11817" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="26" S="8246" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="27" S="15101" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="28" S="8325" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="29" S="16458" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="30" S="15867" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="31" S="16346" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="32" S="15246" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="33" S="11476" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="34" S="4339" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="35" S="33195" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="36" S="1750" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="37" S="9583" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="38" S="5553" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="39" S="5195" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="40" S="4309" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="41" S="8821" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="42" S="9613" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="43" S="7063" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="44" S="11212" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="45" S="13220" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="46" S="23440" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="47" S="16410" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="48" S="20264" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="49" S="4427" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="50" S="5107" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="51" S="19549" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="52" S="6184" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="53" S="8828" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="54" S="17088" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="55" S="11655" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="56" S="23302" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="57" S="13238" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="58" S="7117" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="59" S="3514" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="60" S="12319" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="61" S="10855" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="62" S="1776" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="63" S="2372" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="64" S="21587" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="65" S="1839" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="66" S="7550" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="67" S="20142" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="68" S="61538" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="69" S="9424" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="70" S="1821" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="71" S="5015" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="72" S="3246" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="73" S="7886" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="74" S="7166" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="75" S="16453" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="76" S="39097" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="77" S="9650" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="78" S="2485" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="79" S="11747" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="80" S="2234" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="81" S="11054" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="82" S="2530" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="83" S="30936" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="84" S="13724" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="85" S="5904" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="86" S="21583" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="87" S="3215" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="88" S="2968" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="89" S="5038" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="90" S="9280" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="91" S="7110" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="92" S="18838" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="93" S="5534" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="94" S="3379" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="95" S="11992" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="96" S="5953" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="97" S="12435" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="98" S="23733" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="99" S="25745" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="100" S="3062" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="101" S="6658" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="102" S="23572" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="103" S="2224" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="104" S="4365" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="105" S="13653" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="106" S="29395" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="107" S="5195" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="108" S="10108" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="109" S="3893" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="110" S="21130" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="111" S="2127" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="112" S="7136" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="113" S="4838" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="114" S="11787" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="115" S="5957" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="116" S="8913" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="117" S="12263" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="118" S="13103" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="119" S="11383" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="120" S="8703" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="121" S="17084" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="122" S="11217" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="123" S="3206" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="124" S="7165" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="125" S="28567" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="126" S="30597" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="127" S="32173" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="128" S="1927" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="129" S="9308" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="130" S="5317" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="131" S="3205" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="132" S="6471" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="133" S="10298" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="134" S="16712" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="135" S="2641" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="136" S="4752" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="137" S="4938" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="138" S="7691" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="139" S="4997" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="140" S="6904" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="141" S="21903" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="142" S="15045" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="143" S="2102" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="144" S="5059" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="145" S="1987" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="146" S="9383" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="147" S="2847" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="148" S="6106" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="149" S="1840" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="150" S="13683" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="151" S="4001" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="152" S="6524" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="153" S="27823" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="154" S="11427" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="155" S="7750" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="156" S="7059" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="157" S="2375" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="158" S="17341" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="159" S="13313" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="160" S="2738" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="161" S="26241" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="162" S="13867" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="163" S="10197" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="164" S="22385" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="165" S="4389" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="166" S="13332" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="167" S="10831" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="168" S="14394" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="169" S="21300" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="170" S="7857" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="171" S="15949" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="172" S="9412" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="173" S="1944" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="174" S="5849" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="175" S="15209" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="176" S="20425" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="177" S="32149" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="178" S="2124" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="179" S="10974" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="180" S="36861" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="181" S="5370" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="182" S="9962" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="183" S="8796" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="184" S="6465" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="185" S="4785" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="186" S="11396" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="187" S="11502" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="188" S="4219" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="189" S="6341" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="190" S="30593" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="191" S="13228" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="192" S="16563" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="193" S="11470" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="194" S="5428" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="195" S="6055" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="196" S="4731" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="197" S="63035" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="198" S="17271" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="199" S="1650" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="200" S="22151" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="201" S="14050" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="202" S="3138" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="203" S="2651" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="204" S="21884" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="205" S="8546" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="206" S="24533" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="207" S="14152" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="208" S="5016" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="209" S="5829" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="210" S="2667" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="211" S="9428" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="212" S="4913" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="213" S="11651" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="214" S="8647" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="215" S="1668" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="216" S="6653" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="217" S="4995" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="218" S="18323" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="219" S="4128" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="220" S="27700" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="221" S="11594" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="222" S="3205" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="223" S="15139" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="224" S="14435" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="225" S="6595" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="226" S="22497" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="227" S="4871" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="228" S="7031" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="229" S="3466" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="230" S="16188" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="231" S="5077" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="232" S="10332" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="233" S="1795" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="234" S="5634" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="235" S="10384" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="236" S="2671" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="237" S="14846" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="238" S="4045" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="239" S="36188" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="240" S="3091" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="241" S="4586" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="242" S="25384" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="243" S="4720" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="244" S="3576" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="245" S="23648" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="246" S="12784" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="247" S="10861" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="248" S="16308" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="249" S="14794" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="250" S="30510" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="251" S="7962" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="252" S="27988" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="253" S="8474" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="254" S="20781" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="255" S="9641" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="256" S="2374" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="257" S="4349" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="258" S="13649" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="259" S="14465" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="260" S="5809" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="261" S="18744" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="262" S="12339" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="263" S="2718" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="264" S="21722" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="265" S="1990" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="266" S="2751" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="267" S="40950" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="268" S="3117" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="269" S="23484" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="270" S="20924" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="271" S="22901" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="272" S="9261" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="273" S="3910" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="274" S="8890" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="275" S="26696" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="276" S="11776" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="277" S="12129" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="278" S="3448" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="279" S="16368" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="280" S="10297" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="281" S="9044" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="282" S="14209" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="283" S="25586" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="284" S="43817" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="285" S="28457" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="286" S="7517" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="287" S="5162" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="288" S="13691" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="289" S="12050" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="290" S="1747" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="291" S="2114" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="292" S="7054" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="293" S="7905" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="294" S="3848" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="295" S="7017" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="296" S="14714" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="297" S="2126" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="298" S="17897" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="299" S="7327" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="300" S="4632" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="301" S="15385" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="302" S="27801" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="303" S="7476" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="304" S="31534" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="305" S="10085" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="306" S="2010" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="307" S="49891" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="308" S="3442" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="309" S="24492" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="310" S="30613" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="311" S="14091" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="312" S="5526" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="313" S="7684" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="314" S="2996" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="315" S="20181" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="316" S="6722" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="317" S="5385" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="318" S="3169" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="319" S="6375" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="320" S="17283" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="321" S="22636" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="322" S="29757" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="323" S="11974" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="324" S="8109" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+      </FRAGMENTS>
+
+      <MAP_METRICS STRETCH="0" RECT_AVE="0.00" RECT_ALL="0.00" MID_STDDEV="0.00" R="0.00" WIGGLE="0.00" GAP_STDDEV="0.00" GAP_MAX="0" />
+      <FEATURES>
+
+      </FEATURES>
+
+  </RESTRICTION_MAP>
+  <RESTRICTION_MAP ID="pilon " ENZYME="NcoI" INSILICO="true">
+    <SEQUENCE_ANNOTATION URL="file:////Users/nolson/Micro_Genomic_RM_Data/MG004/ref_genome/MG004_v0.003.fasta" TYPE="FASTA" IDENTIFIER="pilon" />
+    <MAP_DISPLAY EDITABLE="false" STICK="false" X="33836" Y="256" TRANS="255" ORDER="20" ORIENTATION="-1" CIRCULAR="false" GROUPID="-1" />
+      <FRAGMENTS SHIFT="0" OFFSET="1">
+        <F I="0" S="7761" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="1" S="3976" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="2" S="5352" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="3" S="5417" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="4" S="279" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="5" S="9386" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="6" S="918" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="7" S="33692" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="8" S="4212" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="9" S="11727" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="10" S="10289" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="11" S="5115" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="12" S="16042" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="13" S="16114" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="14" S="15987" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="15" S="8127" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="16" S="15239" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="17" S="7956" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="18" S="409" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="19" S="11527" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="20" S="14853" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="21" S="43207" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="22" S="1995" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="23" S="22243" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="24" S="12479" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="25" S="11857" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="26" S="19602" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="27" S="6045" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="28" S="19239" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="29" S="4762" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="30" S="821" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="31" S="26654" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="32" S="4719" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="33" S="4262" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="34" S="27260" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="35" S="8735" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="36" S="23711" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="37" S="8901" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="38" S="19195" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="39" S="64" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="40" S="35" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+      </FRAGMENTS>
+
+      <MAP_METRICS STRETCH="0" RECT_AVE="0.00" RECT_ALL="0.00" MID_STDDEV="0.00" R="0.00" WIGGLE="0.00" GAP_STDDEV="0.00" GAP_MAX="0" />
+      <FEATURES>
+
+      </FEATURES>
+
+  </RESTRICTION_MAP>
+  <RESTRICTION_MAP ID="Copy (1) of pilon " ENZYME="NcoI" INSILICO="true">
+    <SEQUENCE_ANNOTATION URL="file:////Users/nolson/Micro_Genomic_RM_Data/MG004/ref_genome/MG004_v0.003.fasta" TYPE="FASTA" IDENTIFIER="pilon" />
+    <MAP_DISPLAY EDITABLE="false" STICK="false" X="508925" Y="315" TRANS="255" ORDER="20" ORIENTATION="1" CIRCULAR="false" GROUPID="-1" />
+      <FRAGMENTS SHIFT="0" OFFSET="1">
+        <F I="0" S="9321" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="1" S="6849" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="2" S="11073" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="3" S="13789" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="4" S="23305" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="5" S="15840" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="6" S="7744" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="7" S="13028" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="8" S="4181" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="9" S="5217" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="10" S="19942" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="11" S="6151" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="12" S="8768" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="13" S="17248" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="14" S="11510" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="15" S="23540" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="16" S="13871" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="17" S="6423" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="18" S="2297" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="19" S="2380" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="20" S="11622" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="21" S="10951" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="22" S="1450" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="23" S="1720" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="24" S="22439" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="25" S="1503" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="26" S="7462" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="27" S="20746" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="28" S="61895" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="29" S="9287" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="30" S="889" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="31" S="4660" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="32" S="959" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="33" S="3008" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="34" S="7800" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="35" S="7009" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="36" S="16709" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="37" S="39899" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="38" S="9794" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="39" S="2030" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="40" S="11929" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="41" S="1909" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="42" S="10872" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="43" S="2121" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="44" S="31748" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="45" S="14007" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="46" S="5387" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="47" S="442" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="48" S="21772" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="49" S="3371" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="50" S="3092" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="51" S="4693" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="52" S="8575" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="53" S="360" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="54" S="437" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="55" S="6896" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="56" S="19266" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="57" S="491" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="58" S="5367" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="59" S="3029" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="60" S="5427" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="61" S="6566" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="62" S="610" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="63" S="5421" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="64" S="12554" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="65" S="24206" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="66" S="26012" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="67" S="2537" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="68" S="806" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="69" S="5191" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="70" S="378" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="71" S="375" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="72" S="381" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="73" S="23601" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="74" S="1618" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="75" S="4306" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="76" S="5696" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="77" S="8097" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="78" S="29470" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="79" S="5390" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="80" S="9852" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="81" S="3813" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="82" S="21580" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="83" S="1719" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="84" S="7004" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="85" S="5039" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="86" S="12189" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="87" S="5915" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="88" S="8697" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="89" S="12431" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="90" S="13337" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="91" S="473" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="92" S="11113" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="93" S="8879" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="94" S="17372" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="95" S="913" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="96" S="10652" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="97" S="3000" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="98" S="6924" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="99" S="114" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="100" S="297" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="101" S="28673" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="102" S="20334" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="103" S="10542" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="104" S="32722" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="105" S="958" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="106" S="9307" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="107" S="5428" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="108" S="3136" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="109" S="6447" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="110" S="124" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="111" S="10337" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="112" S="6370" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="113" S="10756" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="114" S="2303" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="115" S="129" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="116" S="4243" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="117" S="5016" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="118" S="7613" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="119" S="1022" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="120" S="4266" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="121" S="6893" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="122" S="7131" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="123" S="14977" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="124" S="15520" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="125" S="1661" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="126" S="4796" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="127" S="1499" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="128" S="9483" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="129" S="2479" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="130" S="741" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="131" S="5486" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="132" S="1522" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="133" S="13981" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="134" S="3670" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="135" S="6379" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="136" S="28123" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="137" S="11504" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="138" S="7920" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="139" S="3632" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="140" S="3205" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="141" S="626" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="142" S="1719" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="143" S="521" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="144" S="16758" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="145" S="13423" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="146" S="2392" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="147" S="26604" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="148" S="13940" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="149" S="10" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="150" S="9745" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="151" S="22721" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="152" S="60" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="153" S="4094" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="154" S="13572" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="155" S="10195" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="156" S="773" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="157" S="14188" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="158" S="21315" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="159" S="7730" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="160" S="16222" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="161" S="9416" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="162" S="1298" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="163" S="5578" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="164" S="15341" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="165" S="20489" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="166" S="32754" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="167" S="1484" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="168" S="10748" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="169" S="37575" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="170" S="40" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="171" S="5279" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="172" S="10181" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="173" S="8868" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="174" S="6262" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="175" S="4813" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="176" S="877" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="177" S="10635" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="178" S="12015" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="179" S="4171" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="180" S="6306" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="181" S="4813" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="182" S="26347" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="183" S="13182" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="184" S="16786" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="185" S="12018" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="186" S="5095" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="187" S="503" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="188" S="5534" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="189" S="4667" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="190" S="63372" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="191" S="17329" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="192" S="999" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="193" S="16665" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="194" S="6473" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="195" S="13697" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="196" S="2784" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="197" S="2431" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="198" S="203" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="199" S="22116" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="200" S="8124" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="201" S="608" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="202" S="24543" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="203" S="14552" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="204" S="5067" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="205" S="2989" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="206" S="2371" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="207" S="434" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="208" S="2485" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="209" S="2033" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="210" S="4433" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="211" S="3670" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="212" S="4840" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="213" S="11992" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="214" S="8563" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="215" S="1391" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="216" S="6352" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="217" S="4701" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="218" S="18865" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="219" S="3938" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="220" S="2052" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="221" S="25461" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="222" S="484" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="223" S="10801" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="224" S="1370" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="225" S="2008" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="226" S="15150" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="227" S="14560" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="228" S="6469" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="229" S="16110" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+      </FRAGMENTS>
+
+      <MAP_METRICS STRETCH="0" RECT_AVE="0.00" RECT_ALL="0.00" MID_STDDEV="0.00" R="0.00" WIGGLE="0.00" GAP_STDDEV="0.00" GAP_MAX="0" />
+      <FEATURES>
+
+      </FEATURES>
+
+  </RESTRICTION_MAP>
+  <RESTRICTION_MAP ID="Copy (4) of pilon " ENZYME="NcoI" INSILICO="true">
+    <SEQUENCE_ANNOTATION URL="file:////Users/nolson/Micro_Genomic_RM_Data/MG004/ref_genome/MG004_v0.003.fasta" TYPE="FASTA" IDENTIFIER="pilon" />
+    <MAP_DISPLAY EDITABLE="false" STICK="false" X="2679408" Y="315" TRANS="255" ORDER="20" ORIENTATION="1" CIRCULAR="false" GROUPID="-1" />
+      <FRAGMENTS SHIFT="0" OFFSET="1">
+        <F I="0" S="1451" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="1" S="243" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="2" S="10" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="true" />
+        <F I="3" S="6370" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="4" S="4432" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="5" S="6463" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="6" S="3360" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="7" S="16549" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="8" S="4668" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="9" S="10346" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="10" S="1326" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="11" S="5868" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="12" S="18" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="13" S="9987" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="14" S="2363" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="15" S="14832" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="16" S="3592" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="17" S="36234" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="18" S="2396" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="19" S="4288" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="20" S="25500" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="21" S="3867" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="22" S="72" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="23" S="2845" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="24" S="23533" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="25" S="12759" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="26" S="10452" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="27" S="97" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="28" S="16063" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="29" S="14653" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="30" S="30002" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="31" S="7497" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="32" S="28187" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="33" S="8421" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="34" S="20609" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="35" S="9071" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="36" S="338" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="37" S="378" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="38" S="1983" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="39" S="3765" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="40" S="13647" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="41" S="372" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="42" S="14295" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="43" S="5214" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="44" S="628" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="45" S="18420" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="46" S="12145" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="47" S="911" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="48" S="1676" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="49" S="21852" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="50" S="1418" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="51" S="1699" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="52" S="41683" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="53" S="2225" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="54" S="23001" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="55" S="21049" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="56" S="22698" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="57" S="9020" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="58" S="3865" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="59" S="8689" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="60" S="26824" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="61" S="11734" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="62" S="553" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="63" S="11781" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="64" S="3378" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="65" S="16127" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="66" S="10127" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="67" S="9214" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="68" S="13904" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="69" S="25360" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="70" S="43630" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="71" S="28393" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="72" S="7405" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="73" S="5249" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="74" S="13889" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="75" S="12002" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="76" S="655" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="77" S="1382" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="78" S="1534" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="79" S="7077" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="80" S="3276" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="81" S="4534" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="82" S="3936" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="83" S="7212" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="84" S="15248" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="85" S="1300" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="86" S="257" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="87" S="18052" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="88" S="7121" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="89" S="4373" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="90" S="16016" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="91" S="10868" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="92" S="3409" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="93" S="13980" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="94" S="7149" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="95" S="15491" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="96" S="15808" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="97" S="125" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="98" S="9431" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="99" S="1235" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="100" S="49837" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="101" S="2937" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="102" S="8896" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="103" S="15238" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="104" S="30581" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="105" S="13816" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="106" S="64" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="107" S="5174" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="108" S="64" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="109" S="7507" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="110" S="2735" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="111" S="20449" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="112" S="6862" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="113" S="5216" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="114" S="2977" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="115" S="5983" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="116" S="16989" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="117" S="190" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="118" S="22428" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="119" S="29566" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="120" S="5937" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="121" S="6064" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="122" S="7818" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="123" S="1833" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="124" S="4878" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="125" S="64" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+        <F I="126" S="2320" STDDEV="0.000" HIGHLIGHT="false" HIDE="false" GAP="false" />
+      </FRAGMENTS>
+
+      <MAP_METRICS STRETCH="0" RECT_AVE="0.00" RECT_ALL="0.00" MID_STDDEV="0.00" R="0.00" WIGGLE="0.00" GAP_STDDEV="0.00" GAP_MAX="0" />
+      <FEATURES>
+
+      </FEATURES>
+
+  </RESTRICTION_MAP>
+    <MAP_ALIGNMENT MAP1="Clostridium sporogenes (PA3679) [NcoI]" MAP2="pilon  [NcoI] (in silico)" SCORE="24.565" HIDE="false">
+    <SEQPLACE_ARGS>
+      <MAX_ALLOWED_PLACES>4</MAX_ALLOWED_PLACES>
+      <MIN_SCORE_LOCAL>3.000</MIN_SCORE_LOCAL>
+      <SHOW_POTENTIAL_LOCATIONS>false</SHOW_POTENTIAL_LOCATIONS>
+      <OM_STD_ERR>0.050</OM_STD_ERR>
+      <OM_SMALL_FRAG_MEDIAN>1.000</OM_SMALL_FRAG_MEDIAN>
+      <NUM_STD_ERR>2.000</NUM_STD_ERR>
+      <CUT_MISMATCH_PEN>1.500</CUT_MISMATCH_PEN>
+      <MAX_MISSED_CUTS>6</MAX_MISSED_CUTS>
+      <MIN_ALIGNED_FRAGS>3</MIN_ALIGNED_FRAGS>
+      <CHUNKS_FOR_MISASSEMBLY>5</CHUNKS_FOR_MISASSEMBLY>
+      <CONTAINMENT_THRESHOLD>0.700</CONTAINMENT_THRESHOLD>
+      <CYCLIC_ALIGNMENT>false</CYCLIC_ALIGNMENT>
+    </SEQPLACE_ARGS>
+      <CHUNK I="0" S1="7" S2="39" M="true" />
+      <CHUNK I="1" S1="8" S2="38" M="true" />
+      <CHUNK I="2" S1="9" S2="37" M="true" />
+      <CHUNK I="3" S1="10" S2="36" M="true" />
+      <CHUNK I="4" S1="11" S2="35" M="true" />
+      <CHUNK I="5" S1="12" S2="34" M="true" />
+      <CHUNK I="6" S1="13" S2="33" M="true" />
+      <CHUNK I="7" S1="14" S2="32" M="true" />
+      <CHUNK I="8" S1="15" S2="31" M="true" />
+      <CHUNK I="9" S1="16" S2="29" M="true" />
+      <CHUNK I="10" S1="17" S2="28" M="true" />
+      <CHUNK I="11" S1="18" S2="27" M="true" />
+      <CHUNK I="12" S1="19" S2="26" M="true" />
+      <CHUNK I="13" S1="20" S2="25" M="true" />
+      <CHUNK I="14" S1="21" S2="24" M="true" />
+      <CHUNK I="15" S1="22" S2="23" M="true" />
+      <CHUNK I="16" S1="23" S2="22" M="true" />
+      <CHUNK I="17" S1="24" S2="21" M="true" />
+      <CHUNK I="18" S1="25" S2="20" M="true" />
+      <CHUNK I="19" S1="26" S2="19" M="false" />
+      <CHUNK I="20" S1="26" S2="18" M="true" />
+      <CHUNK I="21" S1="27" S2="17" M="true" />
+      <CHUNK I="22" S1="28" S2="16" M="true" />
+      <CHUNK I="23" S1="29" S2="15" M="true" />
+      <CHUNK I="24" S1="30" S2="14" M="true" />
+      <CHUNK I="25" S1="31" S2="13" M="true" />
+      <CHUNK I="26" S1="32" S2="12" M="true" />
+      <CHUNK I="27" S1="33" S2="10" M="true" />
+      <CHUNK I="28" S1="34" S2="9" M="true" />
+      <CHUNK I="29" S1="35" S2="8" M="true" />
+      <CHUNK I="30" S1="36" S2="7" M="true" />
+      <CHUNK I="31" S1="37" S2="6" M="true" />
+      <CHUNK I="32" S1="38" S2="5" M="false" />
+      <CHUNK I="33" S1="38" S2="4" M="true" />
+      <CHUNK I="34" S1="39" S2="3" M="true" />
+      <CHUNK I="35" S1="40" S2="2" M="true" />
+      <CHUNK I="36" S1="41" S2="1" M="true" />
+      <CHUNK I="37" S1="42" S2="0" M="false" />
+    </MAP_ALIGNMENT>
+    <MAP_ALIGNMENT MAP1="Clostridium sporogenes (PA3679) [NcoI]" MAP2="Copy (4) of pilon  [NcoI] (in silico)" SCORE="61.946" HIDE="false">
+    <SEQPLACE_ARGS>
+      <MAX_ALLOWED_PLACES>4</MAX_ALLOWED_PLACES>
+      <MIN_SCORE_LOCAL>3.000</MIN_SCORE_LOCAL>
+      <SHOW_POTENTIAL_LOCATIONS>false</SHOW_POTENTIAL_LOCATIONS>
+      <OM_STD_ERR>0.050</OM_STD_ERR>
+      <OM_SMALL_FRAG_MEDIAN>1.000</OM_SMALL_FRAG_MEDIAN>
+      <NUM_STD_ERR>2.000</NUM_STD_ERR>
+      <CUT_MISMATCH_PEN>1.500</CUT_MISMATCH_PEN>
+      <MAX_MISSED_CUTS>6</MAX_MISSED_CUTS>
+      <MIN_ALIGNED_FRAGS>3</MIN_ALIGNED_FRAGS>
+      <CHUNKS_FOR_MISASSEMBLY>5</CHUNKS_FOR_MISASSEMBLY>
+      <CONTAINMENT_THRESHOLD>0.700</CONTAINMENT_THRESHOLD>
+      <CYCLIC_ALIGNMENT>false</CYCLIC_ALIGNMENT>
+    </SEQPLACE_ARGS>
+      <CHUNK I="0" S1="227" S2="4" M="true" />
+      <CHUNK I="1" S1="228" S2="5" M="true" />
+      <CHUNK I="2" S1="229" S2="6" M="true" />
+      <CHUNK I="3" S1="230" S2="7" M="true" />
+      <CHUNK I="4" S1="231" S2="8" M="true" />
+      <CHUNK I="5" S1="232" S2="9" M="true" />
+      <CHUNK I="6" S1="233" S2="10" M="true" />
+      <CHUNK I="7" S1="234" S2="11" M="true" />
+      <CHUNK I="8" S1="235" S2="12" M="false" />
+      <CHUNK I="9" S1="235" S2="13" M="true" />
+      <CHUNK I="10" S1="236" S2="14" M="true" />
+      <CHUNK I="11" S1="237" S2="15" M="true" />
+      <CHUNK I="12" S1="238" S2="16" M="true" />
+      <CHUNK I="13" S1="239" S2="17" M="true" />
+      <CHUNK I="14" S1="240" S2="18" M="true" />
+      <CHUNK I="15" S1="241" S2="19" M="true" />
+      <CHUNK I="16" S1="242" S2="20" M="true" />
+      <CHUNK I="17" S1="243" S2="21" M="true" />
+      <CHUNK I="18" S1="244" S2="22" M="false" />
+      <CHUNK I="19" S1="244" S2="23" M="true" />
+      <CHUNK I="20" S1="245" S2="24" M="true" />
+      <CHUNK I="21" S1="246" S2="25" M="true" />
+      <CHUNK I="22" S1="247" S2="26" M="true" />
+      <CHUNK I="23" S1="248" S2="27" M="false" />
+      <CHUNK I="24" S1="248" S2="28" M="true" />
+      <CHUNK I="25" S1="249" S2="29" M="true" />
+      <CHUNK I="26" S1="250" S2="30" M="true" />
+      <CHUNK I="27" S1="251" S2="31" M="true" />
+      <CHUNK I="28" S1="252" S2="32" M="true" />
+      <CHUNK I="29" S1="253" S2="33" M="true" />
+      <CHUNK I="30" S1="254" S2="34" M="true" />
+      <CHUNK I="31" S1="255" S2="35" M="true" />
+      <CHUNK I="32" S1="256" S2="36" M="false" />
+      <CHUNK I="33" S1="256" S2="37" M="true" />
+      <CHUNK I="34" S1="257" S2="39" M="true" />
+      <CHUNK I="35" S1="258" S2="40" M="true" />
+      <CHUNK I="36" S1="259" S2="41" M="false" />
+      <CHUNK I="37" S1="259" S2="42" M="true" />
+      <CHUNK I="38" S1="260" S2="43" M="true" />
+      <CHUNK I="39" S1="261" S2="45" M="true" />
+      <CHUNK I="40" S1="262" S2="46" M="true" />
+      <CHUNK I="41" S1="263" S2="47" M="true" />
+      <CHUNK I="42" S1="264" S2="49" M="true" />
+      <CHUNK I="43" S1="265" S2="50" M="true" />
+      <CHUNK I="44" S1="266" S2="51" M="true" />
+      <CHUNK I="45" S1="267" S2="52" M="true" />
+      <CHUNK I="46" S1="268" S2="53" M="true" />
+      <CHUNK I="47" S1="269" S2="54" M="true" />
+      <CHUNK I="48" S1="270" S2="55" M="true" />
+      <CHUNK I="49" S1="271" S2="56" M="true" />
+      <CHUNK I="50" S1="272" S2="57" M="true" />
+      <CHUNK I="51" S1="273" S2="58" M="true" />
+      <CHUNK I="52" S1="274" S2="59" M="true" />
+      <CHUNK I="53" S1="275" S2="60" M="true" />
+      <CHUNK I="54" S1="276" S2="61" M="true" />
+      <CHUNK I="55" S1="277" S2="62" M="false" />
+      <CHUNK I="56" S1="277" S2="63" M="true" />
+      <CHUNK I="57" S1="278" S2="64" M="true" />
+      <CHUNK I="58" S1="279" S2="65" M="true" />
+      <CHUNK I="59" S1="280" S2="66" M="true" />
+      <CHUNK I="60" S1="281" S2="67" M="true" />
+      <CHUNK I="61" S1="282" S2="68" M="true" />
+      <CHUNK I="62" S1="283" S2="69" M="true" />
+      <CHUNK I="63" S1="284" S2="70" M="true" />
+      <CHUNK I="64" S1="285" S2="71" M="true" />
+      <CHUNK I="65" S1="286" S2="72" M="true" />
+      <CHUNK I="66" S1="287" S2="73" M="true" />
+      <CHUNK I="67" S1="288" S2="74" M="true" />
+      <CHUNK I="68" S1="289" S2="75" M="true" />
+      <CHUNK I="69" S1="290" S2="76" M="false" />
+      <CHUNK I="70" S1="290" S2="77" M="true" />
+      <CHUNK I="71" S1="291" S2="78" M="true" />
+      <CHUNK I="72" S1="292" S2="79" M="true" />
+      <CHUNK I="73" S1="293" S2="80" M="true" />
+      <CHUNK I="74" S1="294" S2="82" M="true" />
+      <CHUNK I="75" S1="295" S2="83" M="true" />
+      <CHUNK I="76" S1="296" S2="84" M="true" />
+      <CHUNK I="77" S1="297" S2="85" M="true" />
+      <CHUNK I="78" S1="298" S2="87" M="true" />
+      <CHUNK I="79" S1="299" S2="88" M="true" />
+      <CHUNK I="80" S1="300" S2="89" M="true" />
+      <CHUNK I="81" S1="301" S2="90" M="true" />
+      <CHUNK I="82" S1="302" S2="91" M="true" />
+      <CHUNK I="83" S1="303" S2="94" M="true" />
+      <CHUNK I="84" S1="304" S2="95" M="true" />
+      <CHUNK I="85" S1="305" S2="97" M="false" />
+      <CHUNK I="86" S1="305" S2="98" M="true" />
+      <CHUNK I="87" S1="306" S2="99" M="true" />
+      <CHUNK I="88" S1="307" S2="100" M="true" />
+      <CHUNK I="89" S1="308" S2="101" M="true" />
+      <CHUNK I="90" S1="309" S2="102" M="true" />
+      <CHUNK I="91" S1="310" S2="104" M="true" />
+      <CHUNK I="92" S1="311" S2="105" M="true" />
+      <CHUNK I="93" S1="312" S2="106" M="false" />
+      <CHUNK I="94" S1="312" S2="107" M="true" />
+      <CHUNK I="95" S1="313" S2="108" M="false" />
+      <CHUNK I="96" S1="313" S2="109" M="true" />
+      <CHUNK I="97" S1="314" S2="110" M="true" />
+      <CHUNK I="98" S1="315" S2="111" M="true" />
+      <CHUNK I="99" S1="316" S2="112" M="true" />
+      <CHUNK I="100" S1="317" S2="113" M="true" />
+      <CHUNK I="101" S1="318" S2="114" M="true" />
+      <CHUNK I="102" S1="319" S2="115" M="true" />
+      <CHUNK I="103" S1="320" S2="116" M="true" />
+      <CHUNK I="104" S1="321" S2="117" M="false" />
+      <CHUNK I="105" S1="321" S2="118" M="true" />
+      <CHUNK I="106" S1="322" S2="119" M="true" />
+      <CHUNK I="107" S1="323" S2="120" M="true" />
+      <CHUNK I="108" S1="324" S2="122" M="true" />
+      <CHUNK I="109" S1="325" S2="123" M="false" />
+    </MAP_ALIGNMENT>
+    <MAP_ALIGNMENT MAP1="Clostridium sporogenes (PA3679) [NcoI]" MAP2="Copy (1) of pilon  [NcoI] (in silico)" SCORE="112.162" HIDE="false">
+    <SEQPLACE_ARGS>
+      <MAX_ALLOWED_PLACES>4</MAX_ALLOWED_PLACES>
+      <MIN_SCORE_LOCAL>3.000</MIN_SCORE_LOCAL>
+      <SHOW_POTENTIAL_LOCATIONS>false</SHOW_POTENTIAL_LOCATIONS>
+      <OM_STD_ERR>0.050</OM_STD_ERR>
+      <OM_SMALL_FRAG_MEDIAN>1.000</OM_SMALL_FRAG_MEDIAN>
+      <NUM_STD_ERR>2.000</NUM_STD_ERR>
+      <CUT_MISMATCH_PEN>1.500</CUT_MISMATCH_PEN>
+      <MAX_MISSED_CUTS>6</MAX_MISSED_CUTS>
+      <MIN_ALIGNED_FRAGS>3</MIN_ALIGNED_FRAGS>
+      <CHUNKS_FOR_MISASSEMBLY>5</CHUNKS_FOR_MISASSEMBLY>
+      <CONTAINMENT_THRESHOLD>0.700</CONTAINMENT_THRESHOLD>
+      <CYCLIC_ALIGNMENT>false</CYCLIC_ALIGNMENT>
+    </SEQPLACE_ARGS>
+      <CHUNK I="0" S1="42" S2="0" M="true" />
+      <CHUNK I="1" S1="43" S2="1" M="true" />
+      <CHUNK I="2" S1="44" S2="2" M="true" />
+      <CHUNK I="3" S1="45" S2="3" M="true" />
+      <CHUNK I="4" S1="46" S2="4" M="true" />
+      <CHUNK I="5" S1="47" S2="5" M="true" />
+      <CHUNK I="6" S1="48" S2="6" M="true" />
+      <CHUNK I="7" S1="49" S2="8" M="true" />
+      <CHUNK I="8" S1="50" S2="9" M="true" />
+      <CHUNK I="9" S1="51" S2="10" M="true" />
+      <CHUNK I="10" S1="52" S2="11" M="true" />
+      <CHUNK I="11" S1="53" S2="12" M="true" />
+      <CHUNK I="12" S1="54" S2="13" M="true" />
+      <CHUNK I="13" S1="55" S2="14" M="true" />
+      <CHUNK I="14" S1="56" S2="15" M="true" />
+      <CHUNK I="15" S1="57" S2="16" M="true" />
+      <CHUNK I="16" S1="58" S2="17" M="true" />
+      <CHUNK I="17" S1="59" S2="18" M="true" />
+      <CHUNK I="18" S1="60" S2="20" M="true" />
+      <CHUNK I="19" S1="61" S2="21" M="true" />
+      <CHUNK I="20" S1="62" S2="22" M="true" />
+      <CHUNK I="21" S1="63" S2="23" M="true" />
+      <CHUNK I="22" S1="64" S2="24" M="true" />
+      <CHUNK I="23" S1="65" S2="25" M="true" />
+      <CHUNK I="24" S1="66" S2="26" M="true" />
+      <CHUNK I="25" S1="67" S2="27" M="true" />
+      <CHUNK I="26" S1="68" S2="28" M="true" />
+      <CHUNK I="27" S1="69" S2="29" M="true" />
+      <CHUNK I="28" S1="70" S2="30" M="true" />
+      <CHUNK I="29" S1="71" S2="31" M="true" />
+      <CHUNK I="30" S1="72" S2="32" M="false" />
+      <CHUNK I="31" S1="72" S2="33" M="true" />
+      <CHUNK I="32" S1="73" S2="34" M="true" />
+      <CHUNK I="33" S1="74" S2="35" M="true" />
+      <CHUNK I="34" S1="75" S2="36" M="true" />
+      <CHUNK I="35" S1="76" S2="37" M="true" />
+      <CHUNK I="36" S1="77" S2="38" M="true" />
+      <CHUNK I="37" S1="78" S2="39" M="true" />
+      <CHUNK I="38" S1="79" S2="40" M="true" />
+      <CHUNK I="39" S1="80" S2="41" M="true" />
+      <CHUNK I="40" S1="81" S2="42" M="true" />
+      <CHUNK I="41" S1="82" S2="43" M="true" />
+      <CHUNK I="42" S1="83" S2="44" M="true" />
+      <CHUNK I="43" S1="84" S2="45" M="true" />
+      <CHUNK I="44" S1="85" S2="46" M="true" />
+      <CHUNK I="45" S1="86" S2="48" M="true" />
+      <CHUNK I="46" S1="87" S2="49" M="true" />
+      <CHUNK I="47" S1="88" S2="50" M="true" />
+      <CHUNK I="48" S1="89" S2="51" M="true" />
+      <CHUNK I="49" S1="90" S2="52" M="true" />
+      <CHUNK I="50" S1="91" S2="53" M="false" />
+      <CHUNK I="51" S1="91" S2="54" M="false" />
+      <CHUNK I="52" S1="91" S2="55" M="true" />
+      <CHUNK I="53" S1="92" S2="56" M="true" />
+      <CHUNK I="54" S1="93" S2="57" M="false" />
+      <CHUNK I="55" S1="93" S2="58" M="true" />
+      <CHUNK I="56" S1="94" S2="59" M="true" />
+      <CHUNK I="57" S1="95" S2="60" M="true" />
+      <CHUNK I="58" S1="96" S2="62" M="false" />
+      <CHUNK I="59" S1="96" S2="63" M="true" />
+      <CHUNK I="60" S1="97" S2="64" M="true" />
+      <CHUNK I="61" S1="98" S2="65" M="true" />
+      <CHUNK I="62" S1="99" S2="66" M="true" />
+      <CHUNK I="63" S1="100" S2="67" M="true" />
+      <CHUNK I="64" S1="101" S2="68" M="true" />
+      <CHUNK I="65" S1="102" S2="71" M="false" />
+      <CHUNK I="66" S1="102" S2="72" M="false" />
+      <CHUNK I="67" S1="102" S2="73" M="true" />
+      <CHUNK I="68" S1="103" S2="74" M="true" />
+      <CHUNK I="69" S1="104" S2="75" M="true" />
+      <CHUNK I="70" S1="105" S2="76" M="true" />
+      <CHUNK I="71" S1="106" S2="78" M="true" />
+      <CHUNK I="72" S1="107" S2="79" M="true" />
+      <CHUNK I="73" S1="108" S2="80" M="true" />
+      <CHUNK I="74" S1="109" S2="81" M="true" />
+      <CHUNK I="75" S1="110" S2="82" M="true" />
+      <CHUNK I="76" S1="111" S2="83" M="true" />
+      <CHUNK I="77" S1="112" S2="84" M="true" />
+      <CHUNK I="78" S1="113" S2="85" M="true" />
+      <CHUNK I="79" S1="114" S2="86" M="true" />
+      <CHUNK I="80" S1="115" S2="87" M="true" />
+      <CHUNK I="81" S1="116" S2="88" M="true" />
+      <CHUNK I="82" S1="117" S2="89" M="true" />
+      <CHUNK I="83" S1="118" S2="90" M="true" />
+      <CHUNK I="84" S1="119" S2="91" M="false" />
+      <CHUNK I="85" S1="119" S2="92" M="true" />
+      <CHUNK I="86" S1="120" S2="93" M="true" />
+      <CHUNK I="87" S1="121" S2="94" M="true" />
+      <CHUNK I="88" S1="122" S2="95" M="false" />
+      <CHUNK I="89" S1="122" S2="96" M="true" />
+      <CHUNK I="90" S1="123" S2="97" M="true" />
+      <CHUNK I="91" S1="124" S2="98" M="true" />
+      <CHUNK I="92" S1="125" S2="99" M="false" />
+      <CHUNK I="93" S1="125" S2="100" M="false" />
+      <CHUNK I="94" S1="125" S2="101" M="true" />
+      <CHUNK I="95" S1="126" S2="102" M="true" />
+      <CHUNK I="96" S1="127" S2="104" M="true" />
+      <CHUNK I="97" S1="128" S2="105" M="true" />
+      <CHUNK I="98" S1="129" S2="106" M="true" />
+      <CHUNK I="99" S1="130" S2="107" M="true" />
+      <CHUNK I="100" S1="131" S2="108" M="true" />
+      <CHUNK I="101" S1="132" S2="109" M="true" />
+      <CHUNK I="102" S1="133" S2="110" M="false" />
+      <CHUNK I="103" S1="133" S2="111" M="true" />
+      <CHUNK I="104" S1="134" S2="112" M="true" />
+      <CHUNK I="105" S1="135" S2="114" M="true" />
+      <CHUNK I="106" S1="136" S2="116" M="true" />
+      <CHUNK I="107" S1="137" S2="117" M="true" />
+      <CHUNK I="108" S1="138" S2="118" M="true" />
+      <CHUNK I="109" S1="139" S2="119" M="true" />
+      <CHUNK I="110" S1="140" S2="121" M="true" />
+      <CHUNK I="111" S1="141" S2="122" M="true" />
+      <CHUNK I="112" S1="142" S2="124" M="true" />
+      <CHUNK I="113" S1="143" S2="125" M="true" />
+      <CHUNK I="114" S1="144" S2="126" M="true" />
+      <CHUNK I="115" S1="145" S2="127" M="true" />
+      <CHUNK I="116" S1="146" S2="128" M="true" />
+      <CHUNK I="117" S1="147" S2="129" M="true" />
+      <CHUNK I="118" S1="148" S2="130" M="false" />
+      <CHUNK I="119" S1="148" S2="131" M="true" />
+      <CHUNK I="120" S1="149" S2="132" M="true" />
+      <CHUNK I="121" S1="150" S2="133" M="true" />
+      <CHUNK I="122" S1="151" S2="134" M="true" />
+      <CHUNK I="123" S1="152" S2="135" M="true" />
+      <CHUNK I="124" S1="153" S2="136" M="true" />
+      <CHUNK I="125" S1="154" S2="137" M="true" />
+      <CHUNK I="126" S1="155" S2="138" M="true" />
+      <CHUNK I="127" S1="156" S2="139" M="true" />
+      <CHUNK I="128" S1="157" S2="141" M="true" />
+      <CHUNK I="129" S1="158" S2="143" M="false" />
+      <CHUNK I="130" S1="158" S2="144" M="true" />
+      <CHUNK I="131" S1="159" S2="145" M="true" />
+      <CHUNK I="132" S1="160" S2="146" M="true" />
+      <CHUNK I="133" S1="161" S2="147" M="true" />
+      <CHUNK I="134" S1="162" S2="148" M="true" />
+      <CHUNK I="135" S1="163" S2="149" M="false" />
+      <CHUNK I="136" S1="163" S2="150" M="true" />
+      <CHUNK I="137" S1="164" S2="151" M="true" />
+      <CHUNK I="138" S1="165" S2="152" M="false" />
+      <CHUNK I="139" S1="165" S2="153" M="true" />
+      <CHUNK I="140" S1="166" S2="154" M="true" />
+      <CHUNK I="141" S1="167" S2="155" M="true" />
+      <CHUNK I="142" S1="168" S2="156" M="false" />
+      <CHUNK I="143" S1="168" S2="157" M="true" />
+      <CHUNK I="144" S1="169" S2="158" M="true" />
+      <CHUNK I="145" S1="170" S2="159" M="true" />
+      <CHUNK I="146" S1="171" S2="160" M="true" />
+      <CHUNK I="147" S1="172" S2="161" M="true" />
+      <CHUNK I="148" S1="173" S2="162" M="true" />
+      <CHUNK I="149" S1="174" S2="163" M="true" />
+      <CHUNK I="150" S1="175" S2="164" M="true" />
+      <CHUNK I="151" S1="176" S2="165" M="true" />
+      <CHUNK I="152" S1="177" S2="166" M="true" />
+      <CHUNK I="153" S1="178" S2="167" M="true" />
+      <CHUNK I="154" S1="179" S2="168" M="true" />
+      <CHUNK I="155" S1="180" S2="169" M="true" />
+      <CHUNK I="156" S1="181" S2="170" M="false" />
+      <CHUNK I="157" S1="181" S2="171" M="true" />
+      <CHUNK I="158" S1="182" S2="172" M="true" />
+      <CHUNK I="159" S1="183" S2="173" M="true" />
+      <CHUNK I="160" S1="184" S2="174" M="true" />
+      <CHUNK I="161" S1="185" S2="175" M="true" />
+      <CHUNK I="162" S1="186" S2="176" M="true" />
+      <CHUNK I="163" S1="187" S2="178" M="true" />
+      <CHUNK I="164" S1="188" S2="179" M="true" />
+      <CHUNK I="165" S1="189" S2="180" M="true" />
+      <CHUNK I="166" S1="190" S2="181" M="true" />
+      <CHUNK I="167" S1="191" S2="183" M="true" />
+      <CHUNK I="168" S1="192" S2="184" M="true" />
+      <CHUNK I="169" S1="193" S2="185" M="true" />
+      <CHUNK I="170" S1="194" S2="186" M="true" />
+      <CHUNK I="171" S1="195" S2="187" M="true" />
+      <CHUNK I="172" S1="196" S2="189" M="true" />
+      <CHUNK I="173" S1="197" S2="190" M="true" />
+      <CHUNK I="174" S1="198" S2="191" M="true" />
+      <CHUNK I="175" S1="199" S2="192" M="true" />
+      <CHUNK I="176" S1="200" S2="193" M="true" />
+      <CHUNK I="177" S1="201" S2="195" M="true" />
+      <CHUNK I="178" S1="202" S2="196" M="true" />
+      <CHUNK I="179" S1="203" S2="197" M="true" />
+      <CHUNK I="180" S1="204" S2="199" M="true" />
+      <CHUNK I="181" S1="205" S2="200" M="true" />
+      <CHUNK I="182" S1="206" S2="201" M="false" />
+      <CHUNK I="183" S1="206" S2="202" M="true" />
+      <CHUNK I="184" S1="207" S2="203" M="true" />
+      <CHUNK I="185" S1="208" S2="204" M="true" />
+      <CHUNK I="186" S1="209" S2="205" M="true" />
+      <CHUNK I="187" S1="210" S2="207" M="false" />
+      <CHUNK I="188" S1="210" S2="208" M="true" />
+      <CHUNK I="189" S1="211" S2="209" M="true" />
+      <CHUNK I="190" S1="212" S2="212" M="true" />
+      <CHUNK I="191" S1="213" S2="213" M="true" />
+      <CHUNK I="192" S1="214" S2="214" M="true" />
+      <CHUNK I="193" S1="215" S2="215" M="true" />
+      <CHUNK I="194" S1="216" S2="216" M="true" />
+      <CHUNK I="195" S1="217" S2="217" M="true" />
+      <CHUNK I="196" S1="218" S2="218" M="true" />
+      <CHUNK I="197" S1="219" S2="219" M="true" />
+      <CHUNK I="198" S1="220" S2="220" M="true" />
+      <CHUNK I="199" S1="221" S2="222" M="false" />
+      <CHUNK I="200" S1="221" S2="223" M="true" />
+      <CHUNK I="201" S1="222" S2="224" M="true" />
+      <CHUNK I="202" S1="223" S2="226" M="true" />
+      <CHUNK I="203" S1="224" S2="227" M="true" />
+      <CHUNK I="204" S1="225" S2="228" M="true" />
+      <CHUNK I="205" S1="226" S2="229" M="false" />
+    </MAP_ALIGNMENT>
+</RESTRICTION_MAPS_DOCUMENT>
