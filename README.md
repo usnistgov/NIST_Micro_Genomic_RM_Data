@@ -11,6 +11,6 @@ __RM 8375 Strain Information__
 - MG004 _Clostridium sporogenes_ PA3679
 
 ## Reference Genomes
-The reference genome sequences are the initial genome sequence for the reference materials. A _de-novo_ assembly using Pacific Biosciences long read data was first generated and the assembly was validated using optical mapping and short read sequencing data then characterized using short read sequencing data using the PEPR bioinformatic pipeline (https://github.com/usnistgov/pepr, https://github.com/usnistgov/pepr). The yaml configuration files in this repository can be used to rerun the genome characterization and evaluation procedure.
+The reference genome sequences are the initial genome sequence for the reference materials. A _de-novo_ assembly using Pacific Biosciences long read data was first generated and the assembly was validated using optical mapping and short read sequencing data then characterized using short read sequencing data using the PEPR bioinformatic pipeline (https://github.com/usnistgov/pepr, https://github.com/usnistgov/peprr). The yaml configuration files in this repository can be used to rerun the genome characterization and evaluation procedure.
 
 
