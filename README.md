@@ -3,6 +3,13 @@ These candidate materials are intended to be Reference Materials, fit-for-purpos
 
 This repository contains supplemental data and files for NIST microbial genomic reference materials (RM 8375 components MG001-MG004).  Data includes raw and cropped PFGE gel image files from the DNA stability study and optical mapping results. Supplemental files include the reference genome sequences and configuration file used to run the PEPR bioinformatics pipeline.
 
+__RM 8375 Strain Information__
+
+- MG001 _Salmonella enterica_ subsp. _enterica_ serovar Typhimurium LT2.
+- MG002 _Staphylococcus aureus_ - clinical isolate
+- MG003 _Pseudomonas aeruginosa_ - clinical isolate
+- MG004 _Clostridium sporogenes_ PA3679
+
 ## Reference Genomes
 The reference genome sequences are the initial genome sequence for the reference materials. A _de-novo_ assembly using Pacific Biosciences long read data was first generated and the assembly was validated using optical mapping and short read sequencing data then characterized using short read sequencing data using the PEPR bioinformatic pipeline (https://github.com/usnistgov/pepr, https://github.com/usnistgov/pepr). The yaml configuration files in this repository can be used to rerun the genome characterization and evaluation procedure.
 
