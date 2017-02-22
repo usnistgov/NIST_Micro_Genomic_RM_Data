@@ -5,4 +5,4 @@ _De novo_ assembly of Pacific Biosciences RSII sequencing data (SRR2057010, SRR2
 * Ambiguity in genome assembly based on the comparison of PacBio assembly and optical mapping data.
 
 ### v1.00
-Changes made to v0.001 by Pilon V 1.12 using Illumina MiSeq data (SRR2134856-SRR213486269, SRR2132887, SRR2132888)
+Changes made to v0.001 by Pilon V 1.12 using Illumina MiSeq data (SRR2134856-SRR213486269, SRR2132887, SRR2132888). Reference genome version used for RM characterization, Fall 2016 release.
